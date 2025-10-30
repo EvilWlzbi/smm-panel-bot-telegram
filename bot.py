@@ -12,11 +12,11 @@ from telegram.ext import (
 )
 
 # ---------------- CONFIG ----------------
-TOKEN = "8469915142:AAF6JKzkyEMU4nfii6iYQpsPS65-kWtUjJI"
+TOKEN = "ENTRE YOUR BOT TOKEN"
 ADMIN_ID = 7282835498  # Your Telegram User ID
 MAIN_CHANNEL = "@wlzbii"  # Force-sub channel
 LOGS_CHAT_ID = -1002922229766  # Logs channel
-UPI_ID = "8891669239@fam"
+UPI_ID = "ENTRE YOUR UPI ID / PAYMENT ID"
 
 # ---------------- PRICES ----------------
 PRICES = {
